@@ -1,0 +1,10 @@
+R = Vp / Itsm
+
+Vp = 230 * 1.414 = 325V
+Itsm = 1A (from MOC datasheet)
+
+R = 325 ohms, rounded up to 360 ohms
+
+/=/
+
+R x Igt + Vgt + Vtm
